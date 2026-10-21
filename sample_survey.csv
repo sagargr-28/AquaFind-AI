@@ -1,0 +1,7 @@
+location,resistivity_ohm_m,soil_moisture_pct,rainfall_mm,latitude,longitude
+Farm Point A,42,24,610,13.0827,77.5700
+Farm Point B,88,16,540,13.0835,77.5720
+Farm Point C,27,31,720,13.0818,77.5732
+Farm Point D,115,12,480,13.0840,77.5688
+Farm Point E,56,28,680,13.0809,77.5695
+Farm Point F,35,26,650,13.0820,77.5750
