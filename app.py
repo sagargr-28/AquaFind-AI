@@ -44,7 +44,7 @@ st.warning(TEXT["warning"])
 
 REQUIRED = ["location", "resistivity_ohm_m", "soil_moisture_pct", "rainfall_mm"]
 NUMERIC = ["resistivity_ohm_m", "soil_moisture_pct", "rainfall_mm"]
-SAMPLE_PATH = Path(__file__).parent / "data" / "sample_survey.csv"
+SAMPLE_PATH = Path(__file__).parent/ "sample_survey.csv"
 
 @st.cache_data
 def load_sample():
